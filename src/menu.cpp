@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cstdio>
 #include "../include/converter.h"
 
 using namespace std;
@@ -17,7 +18,7 @@ void main_menu(void)
 
     printf("----------------------------------- \n");
     printf("[1] Binary To Decimal.\n");
-    printf("[2] See Booking Ticket.\n");
+    printf("[2] Decimal To Binary.\n");
     printf("[3] Sitting.\n");
     printf("[4] Exit.\n");
     printf("----------------------------------- \n\n");

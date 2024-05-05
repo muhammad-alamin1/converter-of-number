@@ -32,7 +32,11 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/converter.h" />
+		<Unit filename="include/menu.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/converter.cpp" />
+		<Unit filename="src/menu.cpp" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
