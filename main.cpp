@@ -1,9 +1,9 @@
 #include <iostream>
-
-using namespace std;
+#include "./include/menu.h"
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    main_menu();
+
     return 0;
 }

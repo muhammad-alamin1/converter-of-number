@@ -1,4 +1,18 @@
 # depslib dependency file v1.0
-1584205420 source:g:\c plus plus\converter_of_number\converter_of_number\main.cpp
+1714930630 source:g:\c plus plus\converter_of_number\converter_of_number\main.cpp
 	<iostream>
+	"./include/menu.h"
+
+1714930131 source:g:\c plus plus\converter_of_number\converter_of_number\src\converter.cpp
+	<iostream>
+	<cmath>
+	"../include/converter.h"
+
+1714929866 g:\c plus plus\converter_of_number\converter_of_number\include\converter.h
+
+1714930579 g:\c plus plus\converter_of_number\converter_of_number\include\menu.h
+
+1714931076 source:g:\c plus plus\converter_of_number\converter_of_number\src\menu.cpp
+	<iostream>
+	"../include/converter.h"
 
